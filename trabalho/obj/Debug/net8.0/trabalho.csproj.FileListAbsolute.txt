@@ -1,0 +1,28 @@
+c:\Users\Matheus Magnus\trabalho\bin\Debug\net8.0\trabalho.exe
+C:\Users\Matheus Magnus\trabalho\bin\Debug\net8.0\trabalho.deps.json
+C:\Users\Matheus Magnus\trabalho\bin\Debug\net8.0\trabalho.runtimeconfig.json
+c:\Users\Matheus Magnus\trabalho\bin\Debug\net8.0\trabalho.dll
+c:\Users\Matheus Magnus\trabalho\bin\Debug\net8.0\trabalho.pdb
+c:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfoInputs.cache
+c:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfo.cs
+c:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\trabalho.csproj.CoreCompileInputs.cache
+c:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\trabalho.dll
+c:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\refint\trabalho.dll
+c:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\trabalho.pdb
+C:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\trabalho.genruntimeconfig.cache
+C:\Users\Matheus Magnus\trabalho\obj\Debug\net8.0\ref\trabalho.dll
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\bin\Debug\net8.0\trabalho.exe
+C:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\bin\Debug\net8.0\trabalho.deps.json
+C:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\bin\Debug\net8.0\trabalho.runtimeconfig.json
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\bin\Debug\net8.0\trabalho.dll
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\bin\Debug\net8.0\trabalho.pdb
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\trabalho.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfoInputs.cache
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\trabalho.AssemblyInfo.cs
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\trabalho.csproj.CoreCompileInputs.cache
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\trabalho.dll
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\refint\trabalho.dll
+c:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\trabalho.pdb
+C:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\trabalho.genruntimeconfig.cache
+C:\Users\Matheus Magnus\OneDrive\Ambiente de Trabalho\trabalho\obj\Debug\net8.0\ref\trabalho.dll
